@@ -1,0 +1,78 @@
+{
+	"label" : "Possession",
+	"what" : 
+	[
+		{
+			"holder" : 
+			{
+
+
+
+
+
+
+
+
+                        },
+			"location" : 
+                        {
+
+
+
+
+
+
+
+
+                        },
+			"sequence number" : 1002
+		},
+		{
+			"holder" : 
+			{
+
+
+
+
+
+
+                        },
+			"location" : 
+			{
+
+
+
+
+
+
+
+
+                        },
+			"sequence number" : 1001,
+			"status" : "successful"
+		}
+	],
+	"when" : 
+	{
+		"time" : "2023-11-17T16:00:00+0000"
+	},
+	"where" : 
+	{
+		"label" : "Target, Davis",
+		"latitude" : 38.554303585994568,
+		"longitude" : -121.69974953598044
+	},
+	"who" : 
+	[
+		{
+			"SSN" : "987654322",
+			"home" : 
+			{
+				"label" : "Costco, Woodland",
+				"latitude" : 38.672215864622636,
+				"longitude" : -121.72280111121437
+			},
+			"name" : "John"
+		}
+	]
+}
